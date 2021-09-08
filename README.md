@@ -1,6 +1,7 @@
 # wp_elementor_lab_basics_2
 
 Elementor Pro installed, not used
+
 Header and Footer via Theme "Hello Elemntor"
 
 Kurs "Getting-Started With Elementor"
